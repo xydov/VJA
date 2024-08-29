@@ -13,13 +13,16 @@ souad àfin de pouvoir créer une application qui va permettre aux gens de parle
 on matchera des gens qui ont la meme vibes pour qu'ils puissent date ou sortir entre potes.
 
 ## To-Do List
-- [ ] voice to text transcription
+- [~] voice to text transcription
 - [ ] Mood tracking
 - [ ] Reflection prompts
 - [ ] search bars 
 - [ ] audio playback
 - [ ] multimedia support
 - [ ] ADD in APP purchase
+- [ ] Chose Logo for APP 
+- [ ] requirements.txt
+
  
 
 
@@ -30,6 +33,11 @@ on matchera des gens qui ont la meme vibes pour qu'ils puissent date ou sortir e
 - [x] Write basic documentation.
 - [x] Finish readME
 - [x] language used PYTHON
+
+
+## Done Coding 
+
+- [x] recording voice
 
 ## Installation
 ```bash
