@@ -15,6 +15,7 @@ on matchera des gens qui ont la meme vibes pour qu'ils puissent date ou sortir e
 ## To-Do List
 - [~] voice to text transcription
 - [~] flutter porgramming
+- [J] User interface 
 - [ ] Mood tracking
 - [ ] Reflection prompts
 - [ ] search bars 
